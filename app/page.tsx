@@ -43,7 +43,7 @@ export default function LandingPage() {
             href="/register"
             className="px-8 py-3 rounded-md bg-rememora text-white font-semibold hover:bg-rememora-dark transition"
           >
-            Crear memorial gratuito
+            PRUEBA
           </Link>
           <Link
             href="/login"
